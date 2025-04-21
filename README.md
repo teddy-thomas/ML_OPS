@@ -1,4 +1,4 @@
-# Amazon SageMaker Examples
+# Amazon SageMaker
 
 ### ML Ops
 
